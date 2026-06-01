@@ -675,7 +675,7 @@ header{
     }
 }
 
-@media (max-width:320px){
+@media (max-width:375px){
     .comment{
         height: 160px;
         width: 280px;
@@ -808,7 +808,7 @@ header{
     }
 }
 
-@media (max-width:320px){
+@media (max-width:375px){
     #pay .item{
         font-size: 12px;
         padding-top: 8px;
@@ -1084,7 +1084,7 @@ footer .stick{
     }
 }
 
-@media (max-width:320px){
+@media (max-width:375px){
     footer{
         width: 320px;
         height: 680px;  
