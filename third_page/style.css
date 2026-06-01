@@ -392,10 +392,9 @@ section{
         width: 700px;
         margin:10px 0;
     }
-
 }
 
-@media (max-width:320px){
+@media (max-width:375px){
 
     header{
         width: 320px;
@@ -765,7 +764,7 @@ footer .stick{
     }
 }
 
-@media (max-width:320px){
+@media (max-width:375px){
     footer{
         width: 320px;
         height: 680px;  
