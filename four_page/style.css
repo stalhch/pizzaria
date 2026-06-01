@@ -1126,7 +1126,7 @@ main {
     }
 }
 
-@media (max-width:320px){
+@media (max-width:375px){
     footer{
         width: 320px;
         height: 680px;  
@@ -1229,7 +1229,7 @@ main {
         font-size: 22px;
     }}
 
-@media (max-width: 360px) {
+@media (max-width: 375px) {
     .cabinet-title h1 {
         font-size: 20px;
     }
